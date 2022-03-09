@@ -1,3 +1,3 @@
-[deneme] (www.google.com)
+[deneme](www.google.com)
 
 
