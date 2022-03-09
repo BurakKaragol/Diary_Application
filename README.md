@@ -1,13 +1,5 @@
-### Hi there, I'm Burak
+## Diray Application
 
-### I'm an Mechatronics Engineer who loves coding alot.
+i made this application for taking quick notes
 
-- I'm currently working at [Beyaz.Net](https://www.beyaz.net/) as intern
-
-- I like to improve myself on new programming languages
-
-- I like game designing. Trying to improve myself with jams
-
-- Hope you like my work :)
-
-
+it will save the note you take with time stamps
